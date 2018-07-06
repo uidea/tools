@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><templates><template autoinsert="false" context="typecomment_context" deleted="false" description="Comment for created types" enabled="true" id="org.eclipse.jdt.ui.text.codetemplates.typecomment" name="typecomment">/** 
+  * ClassName: ${type_name}
+  * Function: ${todo}
+  * Description: ${todo}
+  * date: ${date} ${time} 
+  * 
+  * @author liubin
+  * @email aguai_liu@163.com
+  * @version ${enclosing_type}${tags} 
+  * @since JDK 1.8
+*/</template></templates>
